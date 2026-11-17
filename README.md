@@ -1,1 +1,1 @@
-# AIML-Assignments
+# AIML Theory and Lab Assignments
